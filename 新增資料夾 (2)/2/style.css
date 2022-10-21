@@ -1,0 +1,15 @@
+body {
+  background-color: white;
+}
+#wel {
+  padding: 9px 5px 9px 5px;
+  border: 10px double blue;
+  margin: 10px;
+}
+.divl {
+  color: green;
+  padding: 9px 5px 9px 5px;
+  border: 10px double red;
+  margin: 0 auto;
+  width: 50%;
+}
