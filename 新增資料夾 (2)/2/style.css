@@ -56,3 +56,9 @@ body {
   top: 50px;
   left: 100px;
 }
+.btn {
+  cursor: pointer;
+}
+.invisible {
+  display: none;
+}
