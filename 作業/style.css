@@ -1,15 +1,19 @@
 body {
   background-color: white;
 }
-#wel {
-  padding: 9px 5px 9px 5px;
-  border: 10px double blue;
-  margin: 10px;
+.G1 {
+  font-size: 30px;
+}
+.G2{
+  font-size: 20px;
+}
+.G3{
+  font-size: 20px;
 }
 .divl {
-  color: green;
-  padding: 9px 5px 9px 5px;
-  border: 10px double red;
+  color: blue;
+  padding: 30px 20px 30px 20px;
+  border: 20px double aqua;
   margin: 0 auto;
   width: 50%;
 }
@@ -28,7 +32,7 @@ body {
   color: blue;
   height: 50px;
   width: 100px;
-  font-size: 36px;
+  font-size: 50px;
   text-align: center;
   margin: 10px;
 }
